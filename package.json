@@ -1,0 +1,16 @@
+{
+  "name": "tracksuggest",
+  "version": "1.0.0",
+  "description": "for run python from Max",
+  "main": "tracksuggest",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryo Simon",
+  "license": "ISC",
+  "dependencies": {
+    "g": "^2.0.1",
+    "npm": "^6.14.5",
+    "python-shell": "^2.0.0"
+  }
+}
