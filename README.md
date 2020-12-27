@@ -87,5 +87,7 @@ npm -v
 #### 2.1 Push "On" button at section1.
 #### 2.2 Drop start and goal track from the "track_in_number" directory.
 #### 2.3 Push "Load" button.
-**If it doesn't work, try 4. If it still doesn't work after that, let me know at issue.**
+
+**(If it doesn't work, try 4. If it still doesn't work after that, let me know at issue.)**
+
 ![auto_playlist_demo](https://user-images.githubusercontent.com/51949958/103174832-96677400-48a8-11eb-86ec-5a9db90702a4.gif)
