@@ -85,7 +85,8 @@ npm -v
 
 ### 2. Back to presentation mode and use it!!(How to GIF below!)
 #### 2.1 Push "On" button at section1.
-#### 2.2 Drop start and goal track from the "track_in_number" directory.
+#### 2.2 Drop start and goal track from the 'track_in_number' directory.
+* Check the tracknames from 'tracknames.csv'.
 #### 2.3 Push "Load" button.
 
 (If it doesn't work, try 4. If it still doesn't work after that, let me know at issue.)
