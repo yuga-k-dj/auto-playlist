@@ -82,3 +82,6 @@ npm -v
 
 #### 1.2 Then, the python.js would open (type your python path, showing below)
 <img width="550" alt="Type your python path" src="https://user-images.githubusercontent.com/51949958/103168429-82a31a00-4876-11eb-804c-f714538756c5.png">
+
+### 2. Back to presentation mode and use it!!(How to GIF below!)
+![auto_playlist_demo](https://user-images.githubusercontent.com/51949958/103174832-96677400-48a8-11eb-86ec-5a9db90702a4.gif)
