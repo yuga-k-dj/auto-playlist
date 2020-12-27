@@ -1,5 +1,8 @@
 # Auto-Playlist
 AI-based automatic DJ setlist maker.
+* If you use this system for DJ, please cite [this page](https://github.com/yuga-k-dj/auto-playlist) or one of my socials below.
+* このシステムをDJで使用した場合、こちらの[ページのリンク](https://github.com/yuga-k-dj/auto-playlist)、又は、以下にある私のSNSをタグ付けしてください。
+* Yuga SNS Links - [Instagram](https://www.instagram.com/yuga_k_dj/), [Twitter](https://twitter.com/yuga_k_dj), [Facebook](https://www.facebook.com/profile.php?id=100011611293394)
 
 ## First of all...(Citation)
 * This work uses 'Kapre' from [this paper](https://arxiv.org/abs/1706.05781).
