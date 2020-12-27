@@ -90,6 +90,6 @@ npm -v
 * Check the tracknames from 'tracknames.csv'.
 #### 2.3 Push "Load" button.
 
-(If it doesn't work, try 4. If it still doesn't work after that, let me know at issue.)
+* If it doesn't work, try "No.4 Node.js" above. If it still doesn't work after that, let me know at GitHub Issues.
 
 ![auto_playlist_demo](https://user-images.githubusercontent.com/51949958/103174832-96677400-48a8-11eb-86ec-5a9db90702a4.gif)
