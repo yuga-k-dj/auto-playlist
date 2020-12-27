@@ -78,4 +78,3 @@ npm -v
 * **Open the "auto_playlist_1.maxpat"!**
 ### 1. You need to type your python path at python.js file.
 #### 1.1 Unlock presentation mode and double click the "node script python.js" patch.
-![Double click](https://user-images.githubusercontent.com/51949958/103168112-dceeab80-4873-11eb-8131-9d6bf87e8d31.png)
