@@ -84,4 +84,8 @@ npm -v
 <img width="550" alt="Type your python path" src="https://user-images.githubusercontent.com/51949958/103168429-82a31a00-4876-11eb-804c-f714538756c5.png">
 
 ### 2. Back to presentation mode and use it!!(How to GIF below!)
+#### 2.1 Push "On" button at section1.
+#### 2.2 Drop start and goal track from the "track_in_number" directory.
+#### 2.3 Push "Load" button.
+**If it doesn't work, try 4. If it still doesn't work after that, let me know at issue.**
 ![auto_playlist_demo](https://user-images.githubusercontent.com/51949958/103174832-96677400-48a8-11eb-86ec-5a9db90702a4.gif)
