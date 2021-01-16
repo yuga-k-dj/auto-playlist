@@ -17,8 +17,9 @@ AI-based automatic DJ setlist maker.
 ## Preparation
 ### 0. Please copy all the tracks you have to a new empty directory
 
-### 1. Installing python requirements
+### 1. Clone this repository and install python requirements
 ```sh
+git clone 
 pip install -r requirements.txt
 ```
 
