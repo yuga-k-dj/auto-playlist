@@ -19,7 +19,7 @@ AI-based automatic DJ setlist maker.
 
 ### 1. Clone this repository and install python requirements
 ```sh
-git clone 
+git clone https://github.com/yuga-k-dj/auto-playlist.git
 pip install -r requirements.txt
 ```
 
